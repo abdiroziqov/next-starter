@@ -1,2 +1,2 @@
-# next-starter
+# nuxt-starter
 nuxt
